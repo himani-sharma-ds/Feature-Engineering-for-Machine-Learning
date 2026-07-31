@@ -12,6 +12,15 @@ This repository contains practical implementations of commonly used feature engi
 
 ---
 
+## 📌 Repository Contents
+
+- Missing Value Imputation
+- Label Encoding
+- One-Hot Encoding
+- Ordinal Encoding
+
+---
+
 ## 📂 Project Structure
 
 ```text
