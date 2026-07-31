@@ -32,7 +32,6 @@ Feature-Engineering-for-Machine-Learning/
 │   └── ordinal_encoding.ipynb
 │
 ├── requirements.txt
-└── README.md
 ```
 
 ---
